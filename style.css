@@ -1,0 +1,13 @@
+#masterDiv{
+display: flex;
+flex-wrap: wrap;
+width: 320px;
+height: 320px;
+justify-content: center;
+}
+.grid-pixel{
+width: 20px;  
+height: 20px;
+border: 1px solid #ffffff;
+box-sizing: border-box;
+}
